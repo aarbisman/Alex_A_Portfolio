@@ -7,3 +7,7 @@ Portfolio of Data Science and Machine Learning Projects
 Test update to readme
 
 this is the first sample project
+
+test vizualization:
+
+![alt text](https://github.com/aarbisman/Alex_A_Portfolio/blob/master/images/test_image_1.png)
