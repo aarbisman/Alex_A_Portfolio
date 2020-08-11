@@ -23,3 +23,7 @@ test vizualization:
 * Employs Cross-Validated Hyperparameter Grid Searching accross three different models, spanning 8,000+ model fittings to find optimal hyperparameter set.
 
 * Combines optimized models into an ensemble classification model to improve accuracy.
+
+![visual t-test](/images/visual_t_test.png)
+
+Visual interpretation of t-test used for feature screening
