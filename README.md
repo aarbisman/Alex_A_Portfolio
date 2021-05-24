@@ -27,3 +27,14 @@ test vizualization:
 ![visual t-test](/images/visual_t_test.png)
 
 Visual interpretation of t-test used for feature screening
+
+
+## [Project #2: Finding distinctions in DND monsters using clustering](https://github.com/aarbisman/dnd_monster_clustering/blob/main/clustering_basic_v1.ipynb)
+* Attempts to find meaningful distinctions in high-variance, low observation count data.
+
+* Compares centroid-based k-nearest neighbor clustering to hierarchical clustering algorithms in terms of making meaningful distinctions.
+
+* Examines results of clustering algorithms using scatterplots.
+
+![Entire dataset, clustered](/images/all_data_clustering_results.png)
+
