@@ -38,3 +38,10 @@ Visual interpretation of t-test used for feature screening
 
 ![Entire dataset, clustered](/images/all_data_clustering_results.png)
 
+
+## [Project #3: Creating an optimal fantasy hockey roster using a Dynamic programming algorithm](https://github.com/aarbisman/knappsack_nhl/blob/main/DraftKings_drafter_main.ipynb)
+* Sets up a daily fantasy draft like a modified version of a knapsack problem
+
+* Solves this problem using dynamic programming algorithm, centered around a dictionary of nested lists.
+
+* Adds features to this algorithm to make it compatible with DraftKings' daily fantasy draft.
