@@ -45,3 +45,5 @@ Visual interpretation of t-test used for feature screening
 * Solves this problem using dynamic programming algorithm, centered around a dictionary of nested lists.
 
 * Adds features to this algorithm to make it compatible with DraftKings' daily fantasy draft.
+
+![alt text](/images/optimized_draft_photo.PNG)
