@@ -46,10 +46,14 @@ Visual interpretation of t-test used for feature screening
 
 * Adds features to this algorithm to make it compatible with DraftKings' daily fantasy draft.
 
-![alt text](/images/optimized_draft_photo.PNG)
+![Optimized draft example](/images/optimized_draft_photo.PNG)
 
 
 ## [Project 4: Leveraging 538's baseball predictions for sports betting](https://github.com/aarbisman/leveraging_538_for_betting)
 
 
-*
+* Creates various web scraping scripts meant to be used on 538's baseball predictions and DraftKings' baseball money lines.
+
+* Stores results in a relational database using SQLite.
+
+* Creates an ETL script to transfer results into a data warehouse for analysis.
