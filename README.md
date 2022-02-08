@@ -39,6 +39,7 @@ Visual interpretation of t-test used for feature screening
 
 ![Entire dataset, clustered](/images/all_data_clustering_results.png)
 
+Data clusters, visualized
 
 ## [Project #4: Creating an optimal fantasy hockey roster using a Dynamic programming algorithm](https://github.com/aarbisman/knappsack_nhl/blob/main/different_iterations_of_drafting_algorithm.ipynb)
 * Sets up a daily fantasy draft like a modified version of a knapsack problem
@@ -48,6 +49,8 @@ Visual interpretation of t-test used for feature screening
 * Adds features to this algorithm to make it compatible with DraftKings' daily fantasy draft.
 
 ![Optimized draft example](/images/optimized_draft_photo.PNG)
+
+Optimized draft example
 
 
 ## [Project 5: Leveraging 538's baseball predictions for sports betting](https://github.com/aarbisman/leveraging_538_for_betting)
@@ -59,4 +62,5 @@ Visual interpretation of t-test used for feature screening
 * Creates an ETL script to transfer results into a data warehouse for analysis.
 
 ![Payout Comparison](/images/payout_comparison.PNG)
+
 Payout Comparison
