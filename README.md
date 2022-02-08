@@ -57,3 +57,6 @@ Visual interpretation of t-test used for feature screening
 * Stores results in a relational database using SQLite.
 
 * Creates an ETL script to transfer results into a data warehouse for analysis.
+
+![Payout Comparison](/images/payout_comparison.PNG)
+Payout Comparison
